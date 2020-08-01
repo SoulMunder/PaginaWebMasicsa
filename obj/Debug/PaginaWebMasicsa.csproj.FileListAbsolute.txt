@@ -30,7 +30,6 @@ C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.IO.Compression
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.IO.Compression.ZipFile.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.Net.Http.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.Net.Sockets.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
@@ -50,18 +49,6 @@ C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\vbc.exe.config
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\vbc.rsp
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\VBCSCompiler.exe
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\Antlr3.Runtime.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\Newtonsoft.Json.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Helpers.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Mvc.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Optimization.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Razor.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.WebPages.Deployment.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.WebPages.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.WebPages.Razor.dll
-C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\WebGrease.dll
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Helpers.xml
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Mvc.xml
 C:\Users\ray\Documents\MASICSA\PaginaWebMasicsa\bin\System.Web.Optimization.xml
